@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "e-controle-develop"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+
+[tool.poetry.dev-dependencies]
+python-dotenv = "0.13.0"
